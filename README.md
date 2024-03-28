@@ -1,72 +1,61 @@
 
 ![Bannière](images/uit-wordpress-banner-cours.png)
 
-![Informations](https://img.shields.io/badge/Informations-0074b8?style=for-the-badge)
+## ![Informations](https://img.shields.io/badge/Informations-0074b8?style=for-the-badge)
 
 **Date** : Mai 2024  
 **Session** : MMI 1 2023/2024  
 **Intervenant** : Florian Jourde  
 **Contact** : [jourdeflorian@gmail.com](www.jourdeflorian@gmail.com)  
 
-<h2 id="table-of-contents"> :book: Table of Contents</h2>
+## ![Sommaire](https://img.shields.io/badge/Sommaire-0074b8?style=for-the-badge)
+<ol>
+  <li><a href="#1-introduction">Introduction</a>
+    <ol>
+      <li>Qu'est-ce que WordPress ?</li>
+      <li>Avantages et utilisations</li>
+    </ol>
+  </li>
+  <li><a href="#2-installation">Installation et Configuration</a>
+    <ol>
+      <li>Hébergement et installation</li>
+      <li>Configuration de base</li>
+    </ol>
+  </li>
+  <li><a href="#3-interface">Interface et Contenu</a>
+    <ol>
+      <li>Navigation dans l'interface</li>
+      <li>Création de pages et d'articles</li>
+      <li>Gestion des médias</li>
+    </ol>
+  </li>
+  <li><a href="#4-customization">Personnalisation</a>
+      <ol>
+        <li>Choix et modification des thèmes</li>
+        <li>Utilisation des plugins</li>
+    </ol>
+  </li>
+  <li><a href="#5-optimization">Optimisation</a>
+      <ol>
+        <li>Optimisation pour les moteurs de recherche</li>
+        <li>Bonnes pratiques de sécurité</li>
+    </ol>
+  </li>
+  <li><a href="#6-maintenance">Maintenance et Mises à jour</a>
+      <ol>
+        <li>Gestion des mises à jour</li>
+        <li>Sauvegardes régulières</li>
+    </ol>
+  </li>
+  <li><a href="#7-deploy">Déploiement du site</a>
+      <ol>
+        <li>Transfert en ligne</li>
+        <li>Configuration finale</li>
+    </ol>
+  </li>
+</ol>
 
-<details open="open">
-  <summary>Sommaire</summary>
-  <ol>
-    <li><a href="#1-introduction">Introduction</a>
-      <ul>
-        <li>Qu'est-ce que WordPress ?</li>
-        <li>Avantages et utilisations</li>
-      </ul>
-    </li>
-    <li><a href="#2-installation">Installation et Configuration</a>
-      <ul>
-        <li>Hébergement et installation</li>
-        <li>Configuration de base</li>
-      </ul>
-    </li>
-    <li><a href="#3-interface">Interface et Contenu</a></li>
-    <li><a href="#4-customization">Personnalisation</a></li>
-    <li><a href="#5-optimization">Maintenance et Mises à jour</a></li>
-    <li><a href="#6-maintenance">Installation</a></li>
-    <li><a href="#7-deploy">Déploiement du site</a></li>
-  </ol>
-</details>
-
-<!-- ![Sommaire](https://img.shields.io/badge/Sommaire-0074b8?style=for-the-badge)
-1. Introduction à WordPress  
-Qu'est-ce que WordPress ?  
-Avantages et utilisations  
-
-1. Installation et Configuration  
-Hébergement et installation  
-Configuration de base  
-
-1. Interface et Contenu  
-Navigation dans l'interface  
-Création de pages et d'articles  
-Gestion des médias  
-
-1. Personnalisation  
-Choix et modification des thèmes  
-Utilisation des plugins  
-
-1. Optimisation et Sécurité  
-Optimisation pour les moteurs de recherche  
-Bonnes pratiques de sécurité  
-
-1. Maintenance et Mises à jour  
-Gestion des mises à jour  
-Sauvegardes régulières  
-
-1. Déploiement du site  
-Transfert en ligne  
-Configuration finale   -->
-
-<!-- # 1 -->
-<!-- # 2 -->
-<!-- ## 2<span style="float:right;">![Introduction à WordPress](https://img.shields.io/badge/1-Introduction_à_WordPress-0074b8?style=for-the-badge)</span> -->
-<!-- # 1 ![Introduction à WordPress](https://img.shields.io/badge/1-Introduction_à_WordPress-0074b8?style=for-the-badge) -->
+---
 
 <h2 id="1-introduction"> 
 
@@ -227,8 +216,7 @@ Sauvegardes régulières
 Transfert en ligne
 Configuration finale
 
-
-----
+<!-- ----
 
 1. Introduction à WordPress
 Qu'est-ce que WordPress ?
@@ -278,6 +266,6 @@ Déploiement du site
 
 1.  Transfert du site en ligne
 Configuration des paramètres de domaine
-Tests et vérifications finales
+Tests et vérifications finales -->
 
-### Installation
+<!-- ### Installation -->
