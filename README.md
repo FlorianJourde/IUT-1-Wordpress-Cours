@@ -1,14 +1,14 @@
 
 ![Bannière](images/uit-wordpress-banner-cours.png)
 
-## ![Informations](https://img.shields.io/badge/Informations-0074b8?style=for-the-badge)
+## ![Informations](https://img.shields.io/badge/Informations-383d42?style=for-the-badge)
 
 **Date** : Mai 2024  
 **Session** : MMI 1 2023/2024  
 **Intervenant** : Florian Jourde  
 **Contact** : [jourdeflorian@gmail.com](www.jourdeflorian@gmail.com)  
 
-## ![Sommaire](https://img.shields.io/badge/Sommaire-0074b8?style=for-the-badge)
+## ![Sommaire](https://img.shields.io/badge/Sommaire-383d42?style=for-the-badge)
 <ol>
   <li><a href="#1-introduction">Introduction</a>
     <ol>
@@ -16,13 +16,13 @@
       <li>Avantages et utilisations</li>
     </ol>
   </li>
-  <li><a href="#2-installation">Installation et Configuration</a>
+  <li><a href="#2-installation">Installation et configuration</a>
     <ol>
       <li>Hébergement et installation</li>
       <li>Configuration de base</li>
     </ol>
   </li>
-  <li><a href="#3-interface">Interface et Contenu</a>
+  <li><a href="#3-interface">Interface et contenu</a>
     <ol>
       <li>Navigation dans l'interface</li>
       <li>Création de pages et d'articles</li>
@@ -35,13 +35,13 @@
         <li>Utilisation des plugins</li>
     </ol>
   </li>
-  <li><a href="#5-optimization">Optimisation</a>
+  <li><a href="#5-optimization">Optimisation et sécurité</a>
       <ol>
         <li>Optimisation pour les moteurs de recherche</li>
         <li>Bonnes pratiques de sécurité</li>
     </ol>
   </li>
-  <li><a href="#6-maintenance">Maintenance et Mises à jour</a>
+  <li><a href="#6-maintenance">Maintenance et mises à jour</a>
       <ol>
         <li>Gestion des mises à jour</li>
         <li>Sauvegardes régulières</li>
@@ -91,21 +91,23 @@ En résumé, WordPress est un outil puissant et polyvalent qui offre aux utilisa
 
 </h2>
 
-### ![Hébergement et Installation](https://img.shields.io/badge/2.1-Hébergement_et_Installation-00558a?style=for-the-badge)
+### ![Hébergement et installation](https://img.shields.io/badge/2.1-Hébergement_et_Installation-00558a?style=for-the-badge)
 
 Pour utiliser WordPress, vous avez besoin d'un espace d'hébergement. Vous pouvez choisir entre des hébergements gratuits ou payants selon vos besoins. Une fois l'hébergement choisi, vous pouvez installer WordPress. Cela peut se faire via un installateur en un clic fourni par certains hébergeurs ou en installant manuellement les fichiers de WordPress sur votre serveur.
 
 Une autre option populaire est d'utiliser un serveur local sur votre ordinateur, tel que Wamp, Xampp, ou Mamp. Ces outils vous permettent de créer un environnement de développement WordPress sur votre propre machine, idéal pour tester des thèmes, des plugins et des modifications sans affecter votre site en ligne.
 
-### ![Configuration de Base](https://img.shields.io/badge/2.2_-Configuration_de_Base-00558a?style=for-the-badge)
+### ![Configuration de dase](https://img.shields.io/badge/2.2_-Configuration_de_Base-00558a?style=for-the-badge)
 
 Une fois WordPress installé, vous accédez au tableau de bord administrateur. Configurez les paramètres de base comme le titre et la description de votre site, les permaliens, le format de date et d'heure. Vous pouvez également définir les réglages de lecture et de commentaires.
+
+![Tableau de bord](images/tableau-de-bord-wordpress.png)
 
 En bref, l'installation de WordPress nécessite un hébergement web ou un serveur local, suivi d'une configuration de base pour personnaliser votre site selon vos besoins.
 
 <h2 id="3-interface"> 
 
-![Interface et Contenu](https://img.shields.io/badge/3-Interface_et_Contenu-0074b8?style=for-the-badge)
+![Interface et contenu](https://img.shields.io/badge/3-Interface_et_Contenu-0074b8?style=for-the-badge)
 
 </h2>
 
@@ -137,9 +139,29 @@ Les thèmes définissent l'apparence visuelle de votre site WordPress. Vous pouv
 
 ### ![Utilisation des Plugins](https://img.shields.io/badge/4.2_-Utilisation_des_Plugins-00558a?style=for-the-badge)
 
-Les plugins sont des extensions logicielles qui ajoutent des fonctionnalités supplémentaires à votre site WordPress. Que vous souhaitiez ajouter un formulaire de contact, un système de réservation, un système de paiement en ligne ou toute autre fonctionnalité, il y a probablement un plugin adapté à vos besoins. Pour installer un plugin, accédez à la section "Extensions" dans le tableau de bord de WordPress, puis cliquez sur "Ajouter". Recherchez le plugin souhaité, installez-le et activez-le. Une fois activé, configurez les paramètres du plugin selon vos besoins. Veillez cependant à n'installer que des plugins fiables et mis à jour régulièrement pour garantir la sécurité et la performance de votre site.
+Les plugins sont des extensions logicielles qui ajoutent des fonctionnalités supplémentaires à votre site WordPress. Que vous souhaitiez ajouter un formulaire de contact, un système de réservation, un système de paiement en ligne ou toute autre fonctionnalité, il y a probablement un plugin adapté à vos besoins.
 
-La personnalisation de votre site WordPress passe par le choix d'un thème adapté à votre style et à vos besoins, ainsi que par l'utilisation de plugins pour étendre les fonctionnalités de votre site selon vos exigences spécifiques.
+Pour installer un plugin, accédez à la section "Extensions" dans le tableau de bord de WordPress, puis cliquez sur "Ajouter". Recherchez le plugin souhaité, installez-le et activez-le. Une fois activé, configurez les paramètres du plugin selon vos besoins. Veillez cependant à n'installer que des plugins fiables et mis à jour régulièrement pour garantir la sécurité et la performance de votre site.
+
+Parmi les plugins les plus connus, on retrouve notamment :
+
+1. **Yoast SEO** : Ce plugin est un outil puissant pour l'optimisation des moteurs de recherche (SEO). Il vous aide à améliorer le référencement de votre site en vous fournissant des recommandations sur les mots-clés, les titres, les méta-descriptions, etc.
+
+2. **Advanced Custom Fields** : Ce plugin permet d'ajouter facilement des champs personnalisés à vos articles, pages et types de publication personnalisés. Il offre une grande flexibilité pour structurer vos contenus et créer des sites web plus dynamiques et personnalisés.
+
+3. **Elementor** : Il s'agit d'un constructeur de pages visuel qui vous permet de créer des mises en page complexes et esthétiques sans avoir besoin de connaissances en codage. Il offre une expérience de conception intuitive avec un système de glisser-déposer.
+
+4. **Akeeba Backup** : Ce plugin vous permet de sauvegarder facilement votre site WordPress et de le restaurer en cas de besoin. Il offre des options de sauvegarde complètes et flexibles, y compris le stockage sur cloud.
+
+5. **Contact Form 7** : Il s'agit d'un plugin de formulaire de contact très populaire et facile à utiliser. Il vous permet de créer rapidement des formulaires de contact personnalisés et de les intégrer à votre site.
+
+6. **WooCommerce** : Il s'agit du plugin e-commerce le plus populaire pour WordPress. Il vous permet de créer facilement une boutique en ligne, de gérer vos produits, les paiements, les livraisons, etc.
+
+7. **WP Super Cache** : Ce plugin vous aide à optimiser les performances de votre site en générant des fichiers HTML statiques à partir de vos pages WordPress dynamiques. Cela permet de réduire le temps de chargement des pages et d'améliorer l'expérience utilisateur.
+
+En utilisant judicieusement ces plugins, vous pouvez étendre les fonctionnalités de votre site WordPress et améliorer son efficacité, sa sécurité et sa convivialité pour vos utilisateurs.
+
+![Plugins](images/wordpress-plugins-portfolio.webp)
 
 <h2 id="5-optimization"> 
 
@@ -185,87 +207,7 @@ Une fois que votre site WordPress est prêt à être publié sur Internet, vous 
 
 Une fois que votre site WordPress est prêt à être publié sur Internet, vous devez le transférer depuis votre serveur local ou de développement vers un serveur en ligne. Pour cela, vous devez choisir un fournisseur d'hébergement web et souscrire à un plan d'hébergement adapté à vos besoins. Ensuite, vous pouvez transférer les fichiers de votre site WordPress sur le serveur en ligne à l'aide d'un client FTP ou en utilisant les outils de migration fournis par votre hébergeur. Assurez-vous également de transférer votre base de données et de configurer correctement les paramètres de connexion à la base de données sur le serveur en ligne.
 
----
-
-1. Introduction à WordPress
-Qu'est-ce que WordPress ?
-Avantages et utilisations
-
-2. Installation et Configuration
-Hébergement et installation
-Configuration de base
-
-3. Interface et Contenu
-Navigation dans l'interface
-Création de pages et d'articles
-Gestion des médias
-
-4. Personnalisation
-Choix et modification des thèmes
-Utilisation des plugins
-
-5. Optimisation et Sécurité
-Optimisation pour les moteurs de recherche
-Bonnes pratiques de sécurité
-
-6. Maintenance et Mises à jour
-Gestion des mises à jour
-Sauvegardes régulières
-
-7. Déploiement du site
-Transfert en ligne
-Configuration finale
-
-<!-- ----
-
-1. Introduction à WordPress
-Qu'est-ce que WordPress ?
-Pourquoi utiliser WordPress ?
-Différence entre WordPress.com et WordPress.org
-Installation de WordPress
-
-1. Hébergement : Gratuit vs Payant
-Configuration minimale requise
-Installation manuelle vs Installation en un clic
-Interface de WordPress
-
-1. Tableau de bord
-Navigation dans l'interface
-Personnalisation de l'apparence
-Création de contenu
-
-1. Pages vs Articles
-Éditeur de texte WordPress
-Insertion de médias : images, vidéos, etc.
-Gestion des utilisateurs
-
-1. Création de comptes utilisateurs
-Attribution de rôles : Administrateur, Éditeur, Auteur, etc.
-Gestion des commentaires
-Personnalisation avancée
-
-1. Utilisation de thèmes préconçus
-Installation et personnalisation de thèmes personnalisés
-Ajout de fonctionnalités avec les plugins
-Optimisation pour les moteurs de recherche (SEO)
-
-1. Utilisation de mots-clés
-Structure de l'URL
-Optimisation des images
-Sécurité et sauvegardes
-
-1. Bonnes pratiques de sécurité
-Plugins de sécurité recommandés
-Stratégies de sauvegarde
-Gestion des mises à jour
-
-1. Mises à jour de WordPress
-Mises à jour des thèmes et des plugins
-Précautions à prendre avant de mettre à jour
-Déploiement du site
-
-1.  Transfert du site en ligne
-Configuration des paramètres de domaine
-Tests et vérifications finales -->
-
-<!-- ### Installation -->
+## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
+- https://wordpress.org/
+- https://www.akeeba.com/
+- https://capitainewp.io/
