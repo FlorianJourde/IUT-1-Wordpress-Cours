@@ -150,14 +150,15 @@ Parmi les plugins les plus connus, on retrouve notamment :
 2. **Advanced Custom Fields** : Ce plugin permet d'ajouter facilement des champs personnalisés à vos articles, pages et types de publication personnalisés. Il offre une grande flexibilité pour structurer vos contenus et créer des sites web plus dynamiques et personnalisés.
 
 3. **Elementor** : Il s'agit d'un constructeur de pages visuel qui vous permet de créer des mises en page complexes et esthétiques sans avoir besoin de connaissances en codage. Il offre une expérience de conception intuitive avec un système de glisser-déposer.
+![Elementor UI](images/elementor-ui.jpg)
 
-4. **Akeeba Backup** : Ce plugin vous permet de sauvegarder facilement votre site WordPress et de le restaurer en cas de besoin. Il offre des options de sauvegarde complètes et flexibles, y compris le stockage sur cloud.
+1. **Akeeba Backup** : Ce plugin vous permet de sauvegarder facilement votre site WordPress et de le restaurer en cas de besoin. Il offre des options de sauvegarde complètes et flexibles, y compris le stockage sur cloud.
 
-5. **Contact Form 7** : Il s'agit d'un plugin de formulaire de contact très populaire et facile à utiliser. Il vous permet de créer rapidement des formulaires de contact personnalisés et de les intégrer à votre site.
+2. **Contact Form 7** : Il s'agit d'un plugin de formulaire de contact très populaire et facile à utiliser. Il vous permet de créer rapidement des formulaires de contact personnalisés et de les intégrer à votre site.
 
-6. **WooCommerce** : Il s'agit du plugin e-commerce le plus populaire pour WordPress. Il vous permet de créer facilement une boutique en ligne, de gérer vos produits, les paiements, les livraisons, etc.
+3. **WooCommerce** : Il s'agit du plugin e-commerce le plus populaire pour WordPress. Il vous permet de créer facilement une boutique en ligne, de gérer vos produits, les paiements, les livraisons, etc.
 
-7. **WP Super Cache** : Ce plugin vous aide à optimiser les performances de votre site en générant des fichiers HTML statiques à partir de vos pages WordPress dynamiques. Cela permet de réduire le temps de chargement des pages et d'améliorer l'expérience utilisateur.
+4. **WP Super Cache** : Ce plugin vous aide à optimiser les performances de votre site en générant des fichiers HTML statiques à partir de vos pages WordPress dynamiques. Cela permet de réduire le temps de chargement des pages et d'améliorer l'expérience utilisateur.
 
 En utilisant judicieusement ces plugins, vous pouvez étendre les fonctionnalités de votre site WordPress et améliorer son efficacité, sa sécurité et sa convivialité pour vos utilisateurs.
 
