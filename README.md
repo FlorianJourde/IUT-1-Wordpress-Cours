@@ -209,6 +209,7 @@ Une fois que votre site WordPress est prêt à être publié sur Internet, vous 
 Une fois que votre site WordPress est prêt à être publié sur Internet, vous devez le transférer depuis votre serveur local ou de développement vers un serveur en ligne. Pour cela, vous devez choisir un fournisseur d'hébergement web et souscrire à un plan d'hébergement adapté à vos besoins. Ensuite, vous pouvez transférer les fichiers de votre site WordPress sur le serveur en ligne à l'aide d'un client FTP ou en utilisant les outils de migration fournis par votre hébergeur. Assurez-vous également de transférer votre base de données et de configurer correctement les paramètres de connexion à la base de données sur le serveur en ligne.
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
+
 - https://wordpress.org/
 - https://www.akeeba.com/
 - https://capitainewp.io/
