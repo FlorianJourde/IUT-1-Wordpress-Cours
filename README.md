@@ -1,4 +1,3 @@
-
 ![Bannière](images/uit-wordpress-banner-cours.png)
 
 ## ![Informations](https://img.shields.io/badge/Informations-383d42?style=for-the-badge)
@@ -206,7 +205,7 @@ Une fois que votre site WordPress est prêt à être publié sur Internet, vous 
 
 ### ![Configuration Finale](https://img.shields.io/badge/7.1-Configuration_Finale-00558a?style=flat-square)
 
-Une fois que votre site WordPress est prêt à être publié sur Internet, vous devez le transférer depuis votre serveur local ou de développement vers un serveur en ligne. Pour cela, vous devez choisir un fournisseur d'hébergement web et souscrire à un plan d'hébergement adapté à vos besoins. Ensuite, vous pouvez transférer les fichiers de votre site WordPress sur le serveur en ligne à l'aide d'un client FTP ou en utilisant les outils de migration fournis par votre hébergeur. Assurez-vous également de transférer votre base de données et de configurer correctement les paramètres de connexion à la base de données sur le serveur en ligne.
+Une fois votre site WordPress transféré en ligne, effectuez une dernière vérification pour vous assurer que tout fonctionne correctement. Testez la navigation sur votre site, assurez-vous que tous les liens sont fonctionnels et que le contenu s'affiche correctement. Vérifiez également que les fonctionnalités telles que les formulaires de contact, les boutons de partage social, les paiements en ligne, etc., fonctionnent comme prévu. Enfin, configurez les paramètres de domaine pour que votre site soit accessible via votre nom de domaine personnalisé, si vous en avez un. Une fois cette configuration finale terminée, votre site WordPress est prêt à être visité par vos utilisateurs en ligne.
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
 
