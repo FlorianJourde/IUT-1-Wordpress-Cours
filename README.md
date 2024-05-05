@@ -7,6 +7,8 @@
 **Intervenant** : Florian Jourde  
 **Contact** : [jourdeflorian@gmail.com](www.jourdeflorian@gmail.com)  
 
+---
+
 ## ![Sommaire](https://img.shields.io/badge/Sommaire-383d42?style=for-the-badge)
 <ol>
   <li><a href="#1-introduction">Introduction</a>
@@ -144,20 +146,22 @@ Pour installer un plugin, accédez à la section "Extensions" dans le tableau de
 
 Parmi les plugins les plus connus, on retrouve notamment :
 
-1. **Yoast SEO** : Ce plugin est un outil puissant pour l'optimisation des moteurs de recherche (SEO). Il vous aide à améliorer le référencement de votre site en vous fournissant des recommandations sur les mots-clés, les titres, les méta-descriptions, etc.
+1. **Classic Editor** : Avant la démocratisation de l'éditeur de thème via gestion de blocs Gutenberg, un éditeur de type WYSIWYG permettait de modifier le corps de la page. Cet éditeur correspondant à une ancienne version de Wordpress est désormais disponible en tant que plugin.
 
-2. **Advanced Custom Fields** : Ce plugin permet d'ajouter facilement des champs personnalisés à vos articles, pages et types de publication personnalisés. Il offre une grande flexibilité pour structurer vos contenus et créer des sites web plus dynamiques et personnalisés.
+2. **Yoast SEO** : Ce plugin est un outil puissant pour l'optimisation des moteurs de recherche (SEO). Il vous aide à améliorer le référencement de votre site en vous fournissant des recommandations sur les mots-clés, les titres, les méta-descriptions, etc.
 
-3. **Elementor** : Il s'agit d'un constructeur de pages visuel qui vous permet de créer des mises en page complexes et esthétiques sans avoir besoin de connaissances en codage. Il offre une expérience de conception intuitive avec un système de glisser-déposer.
+3. **Advanced Custom Fields** : Ce plugin permet d'ajouter facilement des champs personnalisés à vos articles, pages et types de publication personnalisés. Il offre une grande flexibilité pour structurer vos contenus et créer des sites web plus dynamiques et personnalisés.
+
+4. **Elementor** : Il s'agit d'un constructeur de pages visuel qui vous permet de créer des mises en page complexes et esthétiques sans avoir besoin de connaissances en codage. Il offre une expérience de conception intuitive avec un système de glisser-déposer.  
 ![Elementor UI](images/elementor-ui.jpg)
 
-1. **Akeeba Backup** : Ce plugin vous permet de sauvegarder facilement votre site WordPress et de le restaurer en cas de besoin. Il offre des options de sauvegarde complètes et flexibles, y compris le stockage sur cloud.
+5. **Akeeba Backup** : Ce plugin vous permet de sauvegarder facilement votre site WordPress et de le restaurer en cas de besoin. Il offre des options de sauvegarde complètes et flexibles, y compris le stockage sur cloud.
 
-2. **Contact Form 7** : Il s'agit d'un plugin de formulaire de contact très populaire et facile à utiliser. Il vous permet de créer rapidement des formulaires de contact personnalisés et de les intégrer à votre site.
+6. **Contact Form 7** : Il s'agit d'un plugin de formulaire de contact très populaire et facile à utiliser. Il vous permet de créer rapidement des formulaires de contact personnalisés et de les intégrer à votre site.
 
-3. **WooCommerce** : Il s'agit du plugin e-commerce le plus populaire pour WordPress. Il vous permet de créer facilement une boutique en ligne, de gérer vos produits, les paiements, les livraisons, etc.
+7. **WooCommerce** : Il s'agit du plugin e-commerce le plus populaire pour WordPress. Il vous permet de créer facilement une boutique en ligne, de gérer vos produits, les paiements, les livraisons, etc.
 
-4. **WP Super Cache** : Ce plugin vous aide à optimiser les performances de votre site en générant des fichiers HTML statiques à partir de vos pages WordPress dynamiques. Cela permet de réduire le temps de chargement des pages et d'améliorer l'expérience utilisateur.
+8. **WP Super Cache** : Ce plugin vous aide à optimiser les performances de votre site en générant des fichiers HTML statiques à partir de vos pages WordPress dynamiques. Cela permet de réduire le temps de chargement des pages et d'améliorer l'expérience utilisateur.
 
 En utilisant judicieusement ces plugins, vous pouvez étendre les fonctionnalités de votre site WordPress et améliorer son efficacité, sa sécurité et sa convivialité pour vos utilisateurs.
 
@@ -206,6 +210,12 @@ Une fois que votre site WordPress est prêt à être publié sur Internet, vous 
 ### ![Configuration Finale](https://img.shields.io/badge/7.1-Configuration_Finale-00558a?style=flat-square)
 
 Une fois votre site WordPress transféré en ligne, effectuez une dernière vérification pour vous assurer que tout fonctionne correctement. Testez la navigation sur votre site, assurez-vous que tous les liens sont fonctionnels et que le contenu s'affiche correctement. Vérifiez également que les fonctionnalités telles que les formulaires de contact, les boutons de partage social, les paiements en ligne, etc., fonctionnent comme prévu. Enfin, configurez les paramètres de domaine pour que votre site soit accessible via votre nom de domaine personnalisé, si vous en avez un. Une fois cette configuration finale terminée, votre site WordPress est prêt à être visité par vos utilisateurs en ligne.
+
+---
+
+## ![Notes](https://img.shields.io/badge/Notes-383d42?style=for-the-badge)
+
+---
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
 
