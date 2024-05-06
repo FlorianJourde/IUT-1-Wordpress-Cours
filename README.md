@@ -215,6 +215,7 @@ Une fois votre site WordPress transféré en ligne, effectuez une dernière vér
 
 ## ![Notes](https://img.shields.io/badge/Notes-383d42?style=for-the-badge)
 
+
 ---
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
