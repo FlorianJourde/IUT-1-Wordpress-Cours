@@ -215,12 +215,22 @@ Une fois votre site WordPress transféré en ligne, effectuez une dernière vér
 
 ## ![Notes](https://img.shields.io/badge/Notes-383d42?style=for-the-badge)
 
-*CMS* : Content Management System
-*WYSIWYG* : What You See Is What You Get
-*CRUD* : Create Read Update Delete
+### ![Notes de cours](https://img.shields.io/badge/6.5.24-Notes_de_cours-00558a?style=flat-square)
 
-## ![Notes](https://img.shields.io/badge/Notes-383d42?style=for-the-badge)
-https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
+L'utilisation de Wordpress est pertinente lorsqu'une personne non-tech est à charge de l'administration du site et de l'ajout de contenu. Via l'utilisation de champs personnalisés, un employé du marketing ou de la communication pourra alimenter le site en ajoutant simplement du contenu en back-office (aussi appelé tableau de bord, ou dashboard).
+
+Le rôle du développeur sera ensuite de configurer correctement ces champs, ainsi que de concevoir le code du site pour que le formatage des données et l’affichage des informations en ligne soit corrects et conformes à la maquette.
+
+Vous pouvez télécharger l'extension [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) pour détecter les technologies employées sur les sites web : CMS, framework frontend, librairies JavaScript...
+
+Les trois principaux frameworks JavaScripts sont :
+- [React](https://fr.react.dev/)
+- [Angular](https://angular.io/)
+- [Vue.js](https://vuejs.org/)
+
+**CMS** : Content Management System  
+**WYSIWYG** : What You See Is What You Get  
+**CRUD** : Create Read Update Delete
 
 ---
 
