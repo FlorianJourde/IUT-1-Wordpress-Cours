@@ -232,6 +232,8 @@ Les trois principaux frameworks JavaScripts sont :
 **WYSIWYG** : What You See Is What You Get  
 **CRUD** : Create Read Update Delete
 
+<!-- ### ![Notes de cours](https://img.shields.io/badge/14.5.24-Notes_de_cours-00558a?style=flat-square) -->
+
 ---
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
