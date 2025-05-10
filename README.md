@@ -1,9 +1,9 @@
-![Bannière](images/uit-wordpress-banner-cours.png)
+![Bannière](images/iut-wordpress-banner-cours.png)
 
 ## ![Informations](https://img.shields.io/badge/Informations-383d42?style=for-the-badge)
 
-**Date** : Mai 2024  
-**Session** : MMI 1 2023/2024  
+**Date** : Mai 2025  
+**Session** : MMI 1  
 **Intervenant** : Florian Jourde  
 **Contact** : [jourdeflorian@gmail.com](www.jourdeflorian@gmail.com)  
 
@@ -215,32 +215,7 @@ Une fois votre site WordPress transféré en ligne, effectuez une dernière vér
 
 ## ![Notes](https://img.shields.io/badge/Notes-383d42?style=for-the-badge)
 
-### ![Notes de cours](https://img.shields.io/badge/6.5.24-Notes_de_cours-00558a?style=flat-square)
-
-L'utilisation de Wordpress est pertinente lorsqu'une personne non-tech est à charge de l'administration du site et de l'ajout de contenu. Via l'utilisation de champs personnalisés, un employé du marketing ou de la communication pourra alimenter le site en ajoutant simplement du contenu en back-office (aussi appelé tableau de bord, ou dashboard).
-
-Le rôle du développeur sera ensuite de configurer correctement ces champs, ainsi que de concevoir le code du site pour que le formatage des données et l’affichage des informations en ligne soit corrects et conformes à la maquette.
-
----
-
-Vous pouvez télécharger l'extension [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) pour détecter les technologies employées sur les sites web : CMS, framework frontend, librairies JavaScript...
-
----
-
-Les trois principaux frameworks JavaScripts sont :
-- [React](https://fr.react.dev/)
-- [Angular](https://angular.io/)
-- [Vue.js](https://vuejs.org/)
-
----
-
-**CMS** : Content Management System  
-**WYSIWYG** : What You See Is What You Get  
-**CRUD** : Create Read Update Delete
-
-<!-- ### ![Notes de cours](https://img.shields.io/badge/14.5.24-Notes_de_cours-00558a?style=flat-square) -->
-
----
+### ![Notes de cours](https://img.shields.io/badge/13.5.25-Notes_de_cours-00558a?style=flat-square)
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
 
