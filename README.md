@@ -217,6 +217,16 @@ Une fois votre site WordPress transféré en ligne, effectuez une dernière vér
 
 ### ![Notes de cours](https://img.shields.io/badge/13.5.25-Notes_de_cours-00558a?style=flat-square)
 
+https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=fr&utm_source=ext_sidebar
+
+Ctrl + Maj + v : Coller sans mise en forme
+
+CMS: Content Managmenet System
+Principaux frameworks : React (Facebook), Angular (Google), Vue.js (ancien de Google) : dynamisme, simplicité d'utilisation
+Frameworks backend : Symfony, Laravel, Django, Ruby on Rails...
+AJAX : Rechargement asynchrone
+Pipeline CI/CD : déploiement continu integration continu - Continious Integration / Continuons Development
+
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
 
 - https://wordpress.org/
