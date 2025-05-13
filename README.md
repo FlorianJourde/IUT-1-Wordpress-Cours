@@ -219,13 +219,26 @@ Une fois votre site WordPress transféré en ligne, effectuez une dernière vér
 
 https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=fr&utm_source=ext_sidebar
 
-Ctrl + Maj + v : Coller sans mise en forme
+Installation Wordpress : sauvegardez bien votre base de données !
 
+Ctrl + Maj + v : Coller sans mise en forme
 CMS: Content Managmenet System
 Principaux frameworks : React (Facebook), Angular (Google), Vue.js (ancien de Google) : dynamisme, simplicité d'utilisation
 Frameworks backend : Symfony, Laravel, Django, Ruby on Rails...
 AJAX : Rechargement asynchrone
 Pipeline CI/CD : déploiement continu integration continu - Continious Integration / Continuons Development
+Photopea : Editeur d'image type "Photoshop" gratuit
+Décompression partielle d'une archive
+Windows + Maj + S
+
+FileZilla / WinSCP : Afficher / Editer
+  - FileZilla > Paramètres > Edition des fichiers > Association par type de fichiers
+```
+css "C:\Program Files\Microsoft VS Code\Code.exe" %f
+php "C:\Program Files\Microsoft VS Code\Code.exe" %f
+html "C:\Program Files\Microsoft VS Code\Code.exe" %f
+javascript "C:\Program Files\Microsoft VS Code\Code.exe" %f
+``` 
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
 
