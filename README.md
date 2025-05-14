@@ -221,15 +221,19 @@ https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfn
 
 Installation Wordpress : sauvegardez bien votre base de données !
 
-Ctrl + Maj + v : Coller sans mise en forme
 CMS: Content Managmenet System
+WYSIWYG : What You See Is What You Get
 Principaux frameworks : React (Facebook), Angular (Google), Vue.js (ancien de Google) : dynamisme, simplicité d'utilisation
 Frameworks backend : Symfony, Laravel, Django, Ruby on Rails...
 AJAX : Rechargement asynchrone
 Pipeline CI/CD : déploiement continu integration continu - Continious Integration / Continuons Development
 Photopea : Editeur d'image type "Photoshop" gratuit
 Décompression partielle d'une archive
-Windows + Maj + S
+Ctrl + Maj + v : Coller sans mise en forme
+Windows + Maj + S : Presse-papier
+Raycast : Presse-papier sur Mac
+
+DevTools : Ctrl + Maj + I / Maj + C
 
 FileZilla / WinSCP : Afficher / Editer
   - FileZilla > Paramètres > Edition des fichiers > Association par type de fichiers
