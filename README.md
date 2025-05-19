@@ -217,32 +217,65 @@ Une fois votre site WordPress transféré en ligne, effectuez une dernière vér
 
 ### ![Notes de cours](https://img.shields.io/badge/13.5.25-Notes_de_cours-00558a?style=flat-square)
 
-https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=fr&utm_source=ext_sidebar
+Sauvegarder bien votre base de données avant mise en place d'un site Wordpress afin de ne pas perdre vos tables personnelles !
 
-Installation Wordpress : sauvegardez bien votre base de données !
+---
 
-CMS: Content Managmenet System
-WYSIWYG : What You See Is What You Get
-Principaux frameworks : React (Facebook), Angular (Google), Vue.js (ancien de Google) : dynamisme, simplicité d'utilisation
-Frameworks backend : Symfony, Laravel, Django, Ruby on Rails...
-AJAX : Rechargement asynchrone
-Pipeline CI/CD : déploiement continu integration continu - Continious Integration / Continuons Development
-Photopea : Editeur d'image type "Photoshop" gratuit
-Décompression partielle d'une archive
-Ctrl + Maj + v : Coller sans mise en forme
-Windows + Maj + S : Presse-papier
-Raycast : Presse-papier sur Mac
+Vous pouvez télécharger l'extension [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) pour détecter les technologies employées sur les sites web : CMS, framework frontend, librairies JavaScript...
 
-DevTools : Ctrl + Maj + I / Maj + C
+![Wappalyzer](images/wappalyzer.webp)
 
-FileZilla / WinSCP : Afficher / Editer
-  - FileZilla > Paramètres > Edition des fichiers > Association par type de fichiers
+
+---
+
+Un équivalent à Photoshop existe, utilisable dans n'importe quel navigateur web, [Photopea](https://www.photopea.com/).
+![Photopea](images/photopea.jpeg)
+
+---
+
+Via un programme de compression ou décompression d'archive, il est possible de n'extraire que les dossiers dont nous avons besoin. Un site WordPress étant assez lourd et composé de plus de 3.000 fichiers de très petite taille, il pourra être intéressant de ne réaliser qu'une extraction partielle, en fonction de ce dont nous avons besoin.
+
+Cette extraction partielle d'une archive est d'autant plus pertinente lorsqu'on doit déplacer des fichiers sur un serveur, action qui peut être parfois chronophage.
+
+![Extraction partielle](images/partial-extract.png)
+
+---
+
+Pour optimiser l'édition des fichiers via FileZilla ou WinSCP, il est possible de modifier les réglage d'associations personnalisée en ajoutant ces lignes dans les paramètres :
+- FileZilla > Paramètres > Edition des fichiers > Association par type de fichiers
 ```
 css "C:\Program Files\Microsoft VS Code\Code.exe" %f
 php "C:\Program Files\Microsoft VS Code\Code.exe" %f
 html "C:\Program Files\Microsoft VS Code\Code.exe" %f
-javascript "C:\Program Files\Microsoft VS Code\Code.exe" %f
+js "C:\Program Files\Microsoft VS Code\Code.exe" %f
 ``` 
+
+![FileZilla](images/filezilla-defaut.png)
+
+*N.b.: Pour trouver l'emplacement du programme, il est possible de cliquer sur le programme, puis "afficher l'emplacement du ficher, sur Windows. Un équivalent doit également exister sous Mac.""*
+
+---
+
+Via le raccourci `Windows + V`, vous pouvez naviguer parmi les derniers éléments copiés. Le presse-papier est à activer avant la première utilisation. Comme pour un copier/coller classique, la copie d'images est également possible.
+
+![Presse papier](images/presse-papier.png)
+
+L'équivalent sur Mac est une extension appelée [Raycast](https://www.raycast.com/).
+
+---
+
+### ![Notes de cours](https://img.shields.io/badge/20.5.25-Notes_de_cours-00558a?style=flat-square)
+
+## ![Glossaire](https://img.shields.io/badge/Glossaire-383d42?style=for-the-badge)
+**CMS** : Content Management System  
+**WYSIWYG** : What You See Is What You Get  
+**Frameworks frontend** : React (Facebook), Angular (Google), Vue.js (ex-Google)...  
+**Frameworks backend** : Symfony, Laravel, Django, Ruby on Rails...  
+**AJAX** : Rechargement asynchrone (ou partiel) d'une page  
+**Pipeline CI/CD** : Continuous Integration / Continuons Development
+**Open DevTools** : Ctrl + Maj + I
+**Select element in DevTools** : Ctrl + Maj + C
+**Coller sans mise en forme** : Ctrl + Maj + V
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
 
