@@ -241,7 +241,7 @@ Cette extraction partielle d'une archive est d'autant plus pertinente lorsqu'on 
 
 ---
 
-Pour optimiser l'édition des fichiers via FileZilla ou WinSCP, il est possible de modifier les réglage d'associations personnalisée en ajoutant ces lignes dans les paramètres :
+Pour optimiser l'édition des fichiers via FileZilla ou WinSCP, il est possible de modifier les réglages d'associations personnalisés en ajoutant ces lignes dans les paramètres :
 - FileZilla > Paramètres > Edition des fichiers > Association par type de fichiers
 ```
 css "C:\Program Files\Microsoft VS Code\Code.exe" %f
