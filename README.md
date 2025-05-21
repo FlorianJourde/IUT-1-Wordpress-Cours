@@ -266,7 +266,7 @@ L'équivalent sur Mac est une extension appelée [Raycast](https://www.raycast.c
 
 ### ![Notes de cours](https://img.shields.io/badge/20.5.25-Notes_de_cours-00558a?style=flat-square)
 
-
+Windsurf & Cursor : ID boostés à l'IA
 
 ## ![Glossaire](https://img.shields.io/badge/Glossaire-383d42?style=for-the-badge)
 **CMS** : Content Management System  
@@ -279,6 +279,9 @@ L'équivalent sur Mac est une extension appelée [Raycast](https://www.raycast.c
 **Select element in DevTools** : Ctrl + Maj + C
 **Coller sans mise en forme** : Ctrl + Maj + V
 **API** : Application Programmation Interface
+POC : Proof of content
+MVP : Minimum viable product
+Code spaghetti : 
 
 ## ![Raccourcis](https://img.shields.io/badge/Glossaire-383d42?style=for-the-badge)
 **Ctrl + L** : Sélectionner le champ URL dans un navigateur
