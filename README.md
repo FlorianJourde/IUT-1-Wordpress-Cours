@@ -280,14 +280,17 @@ L'équivalent sur Mac est une extension appelée [Raycast](https://www.raycast.c
 **Select element in DevTools** : Ctrl + Maj + C  
 **Coller sans mise en forme** : Ctrl + Maj + V  
 **API** : Application Programmation Interface  
-**POC** : Proof of content  
-**MVP** : Minimum viable product  
-**Code spaghetti** : Mauvaise pratique désignant le code "monolothique" et mal fragmenté.
+**POC** : Proof of Content  
+**MVP** : Minimum Viable Product  
+**Code spaghetti** : Mauvaise pratique désignant le code "monolothique" et mal fragmenté.  
 **Windsurf & Cursor** : ID boostés à l'IA
 
 ## ![Raccourcis](https://img.shields.io/badge/Raccourcis-383d42?style=for-the-badge)
 **Ctrl + L** : Sélectionner le champ URL dans un navigateur  
-**Clic, Maj, Clic** : Reprise de la sélection
+**Clic, Maj, Clic** : Reprise de la sélection  
+**Ctrl + Maj + C** : Inspecter des éléments sur une page web  
+**Alt + ⇠** : Remonter dans le DOM  
+**Alt + Clic** : Déployer tout le code d'une section du DOM  
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
 
