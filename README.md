@@ -264,13 +264,10 @@ L'équivalent sur Mac est une extension appelée [Raycast](https://www.raycast.c
 
 ---
 
-### ![Notes de cours](https://img.shields.io/badge/20.5.25-Notes_de_cours-00558a?style=flat-square)
-
-Windsurf & Cursor : ID boostés à l'IA
-
 ### ![Notes de cours](https://img.shields.io/badge/27.5.25-Notes_de_cours-00558a?style=flat-square)
 
 [Refactoring UI](https://drive.google.com/file/d/1UGTuMD6L5HT7YVvTNaIP0Gnj4U37-Ahi/view), par Adam Wathan, le créateur de Tailwind CSS.
+[![Refactoring UI](images/refactoring-ui.jpg)](https://drive.google.com/file/d/1UGTuMD6L5HT7YVvTNaIP0Gnj4U37-Ahi/view)
 
 ## ![Glossaire](https://img.shields.io/badge/Glossaire-383d42?style=for-the-badge)
 **CMS** : Content Management System  
@@ -278,21 +275,25 @@ Windsurf & Cursor : ID boostés à l'IA
 **Frameworks frontend** : React (Facebook), Angular (Google), Vue.js (ex-Google)...  
 **Frameworks backend** : Symfony, Laravel, Django, Ruby on Rails...  
 **AJAX** : Rechargement asynchrone (ou partiel) d'une page  
-**Pipeline CI/CD** : Continuous Integration / Continuons Development
-**Open DevTools** : Ctrl + Maj + I
-**Select element in DevTools** : Ctrl + Maj + C
-**Coller sans mise en forme** : Ctrl + Maj + V
-**API** : Application Programmation Interface
-**POC** : Proof of content
-**MVP** : Minimum viable product
-**Code spaghetti** : Mauvaise pratique désignant le code "monolothique" et mal fragmenté. 
+**Pipeline CI/CD** : Continuous Integration / Continuons Development  
+**Open DevTools** : Ctrl + Maj + I  
+**Select element in DevTools** : Ctrl + Maj + C  
+**Coller sans mise en forme** : Ctrl + Maj + V  
+**API** : Application Programmation Interface  
+**POC** : Proof of content  
+**MVP** : Minimum viable product  
+**Code spaghetti** : Mauvaise pratique désignant le code "monolothique" et mal fragmenté.
+**Windsurf & Cursor** : ID boostés à l'IA
 
-## ![Raccourcis](https://img.shields.io/badge/Glossaire-383d42?style=for-the-badge)
-**Ctrl + L** : Sélectionner le champ URL dans un navigateur
-**Clic, Maj, Clic** = Reprise de la sélection
+## ![Raccourcis](https://img.shields.io/badge/Raccourcis-383d42?style=for-the-badge)
+**Ctrl + L** : Sélectionner le champ URL dans un navigateur  
+**Clic, Maj, Clic** : Reprise de la sélection
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
 
 - https://wordpress.org/
+- https://wordpress.org/download/
 - https://www.akeeba.com/
 - https://capitainewp.io/
+- https://wpmarmite.com/child-theme-wordpress/
+- https://developer.wordpress.org/themes/basics/template-hierarchy/
