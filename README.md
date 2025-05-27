@@ -261,13 +261,14 @@ Via le raccourci `Windows + V`, vous pouvez naviguer parmi les derniers élémen
 ![Presse papier](images/presse-papier.png)
 
 L'équivalent sur Mac est une extension appelée [Raycast](https://www.raycast.com/).
+[![Raycast](images/raycast.png)](https://www.raycast.com/)
 
 ---
 
 ### ![Notes de cours](https://img.shields.io/badge/27.5.25-Notes_de_cours-00558a?style=flat-square)
 
-[Refactoring UI](https://drive.google.com/file/d/1UGTuMD6L5HT7YVvTNaIP0Gnj4U37-Ahi/view), par Adam Wathan, le créateur de Tailwind CSS.
-[![Refactoring UI](images/refactoring-ui.jpg)](https://drive.google.com/file/d/1UGTuMD6L5HT7YVvTNaIP0Gnj4U37-Ahi/view)
+[Refactoring UI](https://drive.google.com/file/d/1UGTuMD6L5HT7YVvTNaIP0Gnj4U37-Ahi/view), par Adam Wathan, le créateur de Tailwind CSS : ressource fondamentale pour décrypter les codes actuels de l'interface.
+[![Refactoring UI](images/refactoring-ui.webp)](https://drive.google.com/file/d/1UGTuMD6L5HT7YVvTNaIP0Gnj4U37-Ahi/view)
 
 ## ![Glossaire](https://img.shields.io/badge/Glossaire-383d42?style=for-the-badge)
 **CMS** : Content Management System  
