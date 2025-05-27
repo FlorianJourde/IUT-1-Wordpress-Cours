@@ -268,6 +268,10 @@ L'équivalent sur Mac est une extension appelée [Raycast](https://www.raycast.c
 
 Windsurf & Cursor : ID boostés à l'IA
 
+### ![Notes de cours](https://img.shields.io/badge/27.5.25-Notes_de_cours-00558a?style=flat-square)
+
+[Refactoring UI](https://drive.google.com/file/d/1UGTuMD6L5HT7YVvTNaIP0Gnj4U37-Ahi/view), par Adam Wathan, le créateur de Tailwind CSS.
+
 ## ![Glossaire](https://img.shields.io/badge/Glossaire-383d42?style=for-the-badge)
 **CMS** : Content Management System  
 **WYSIWYG** : What You See Is What You Get  
@@ -279,9 +283,9 @@ Windsurf & Cursor : ID boostés à l'IA
 **Select element in DevTools** : Ctrl + Maj + C
 **Coller sans mise en forme** : Ctrl + Maj + V
 **API** : Application Programmation Interface
-POC : Proof of content
-MVP : Minimum viable product
-Code spaghetti : 
+**POC** : Proof of content
+**MVP** : Minimum viable product
+**Code spaghetti** : Mauvaise pratique désignant le code "monolothique" et mal fragmenté. 
 
 ## ![Raccourcis](https://img.shields.io/badge/Glossaire-383d42?style=for-the-badge)
 **Ctrl + L** : Sélectionner le champ URL dans un navigateur
