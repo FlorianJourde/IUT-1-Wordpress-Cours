@@ -2,14 +2,15 @@
 
 ## ![Informations](https://img.shields.io/badge/Informations-383d42?style=for-the-badge)
 
-**Date** : Mai 2025  
+**Date** : Mai 2026  
 **Session** : MMI 1  
 **Intervenant** : Florian Jourde  
-**Contact** : [jourdeflorian@gmail.com](www.jourdeflorian@gmail.com)  
+**Contact** : [jourdeflorian@gmail.com](www.jourdeflorian@gmail.com)
 
 ---
 
 ## ![Sommaire](https://img.shields.io/badge/Sommaire-383d42?style=for-the-badge)
+
 <ol>
   <li><a href="#1-introduction">Introduction</a>
     <ol>
@@ -153,7 +154,7 @@ Parmi les plugins les plus connus, on retrouve notamment :
 3. **Advanced Custom Fields** : Ce plugin permet d'ajouter facilement des champs personnalisés à vos articles, pages et types de publication personnalisés. Il offre une grande flexibilité pour structurer vos contenus et créer des sites web plus dynamiques et personnalisés.
 
 4. **Elementor** : Il s'agit d'un constructeur de pages visuel qui vous permet de créer des mises en page complexes et esthétiques sans avoir besoin de connaissances en codage. Il offre une expérience de conception intuitive avec un système de glisser-déposer.  
-![Elementor UI](images/elementor-ui.jpg)
+   ![Elementor UI](images/elementor-ui.jpg)
 
 5. **Akeeba Backup** : Ce plugin vous permet de sauvegarder facilement votre site WordPress et de le restaurer en cas de besoin. Il offre des options de sauvegarde complètes et flexibles, y compris le stockage sur cloud.
 
@@ -211,50 +212,20 @@ Une fois que votre site WordPress est prêt à être publié sur Internet, vous 
 
 Une fois votre site WordPress transféré en ligne, effectuez une dernière vérification pour vous assurer que tout fonctionne correctement. Testez la navigation sur votre site, assurez-vous que tous les liens sont fonctionnels et que le contenu s'affiche correctement. Vérifiez également que les fonctionnalités telles que les formulaires de contact, les boutons de partage social, les paiements en ligne, etc., fonctionnent comme prévu. Enfin, configurez les paramètres de domaine pour que votre site soit accessible via votre nom de domaine personnalisé, si vous en avez un. Une fois cette configuration finale terminée, votre site WordPress est prêt à être visité par vos utilisateurs en ligne.
 
----
-
 ## ![Notes](https://img.shields.io/badge/Notes-383d42?style=for-the-badge)
 
-### ![Notes de cours](https://img.shields.io/badge/13.5.25-Notes_de_cours-00558a?style=flat-square)
+### ![Wappalyzer](https://img.shields.io/badge/1-Wappalyzer-00558a?style=flat-square)
 
-Sauvegarder bien votre base de données avant mise en place d'un site Wordpress afin de ne pas perdre vos tables personnelles !
-
----
-
-Vous pouvez télécharger l'extension [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) pour détecter les technologies employées sur les sites web : CMS, framework frontend, librairies JavaScript...
+*Vous pouvez télécharger l'extension [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) pour détecter les technologies employées sur les sites web : CMS, framework frontend, librairies JavaScript...*
 
 ![Wappalyzer](images/wappalyzer.webp)
 
-
----
+### ![Photopea](https://img.shields.io/badge/2-Photopea-00558a?style=flat-square)
 
 Un équivalent à Photoshop existe, utilisable dans n'importe quel navigateur web, [Photopea](https://www.photopea.com/).
 ![Photopea](images/photopea.jpeg)
 
----
-
-Via un programme de compression ou décompression d'archive, il est possible de n'extraire que les dossiers dont nous avons besoin. Un site WordPress étant assez lourd et composé de plus de 3.000 fichiers de très petite taille, il pourra être intéressant de ne réaliser qu'une extraction partielle, en fonction de ce dont nous avons besoin.
-
-Cette extraction partielle d'une archive est d'autant plus pertinente lorsqu'on doit déplacer des fichiers sur un serveur, action qui peut être parfois chronophage.
-
-![Extraction partielle](images/partial-extract.png)
-
----
-
-Pour optimiser l'édition des fichiers via FileZilla ou WinSCP, il est possible de modifier les réglages d'associations personnalisés en ajoutant ces lignes dans les paramètres :
-- FileZilla > Paramètres > Edition des fichiers > Association par type de fichiers
-```
-css "C:\Program Files\Microsoft VS Code\Code.exe" %f
-php "C:\Program Files\Microsoft VS Code\Code.exe" %f
-html "C:\Program Files\Microsoft VS Code\Code.exe" %f
-js "C:\Program Files\Microsoft VS Code\Code.exe" %f
-``` 
-
-![FileZilla](images/filezilla-defaut.png)
-
-*N.b.: Pour trouver l'emplacement du programme, il est possible de cliquer sur le programme, puis "afficher l'emplacement du ficher, sur Windows. Un équivalent doit également exister sous Mac.""*
-
----
+### ![Presse-papier](https://img.shields.io/badge/3-Presse_papier-00558a?style=flat-square)
 
 Via le raccourci `Windows + V`, vous pouvez naviguer parmi les derniers éléments copiés. Le presse-papier est à activer avant la première utilisation. Comme pour un copier/coller classique, la copie d'images est également possible.
 
@@ -263,14 +234,13 @@ Via le raccourci `Windows + V`, vous pouvez naviguer parmi les derniers élémen
 L'équivalent sur Mac est une extension appelée [Raycast](https://www.raycast.com/).
 [![Raycast](images/raycast.png)](https://www.raycast.com/)
 
----
-
-### ![Notes de cours](https://img.shields.io/badge/27.5.25-Notes_de_cours-00558a?style=flat-square)
+### ![Refactoring UI](https://img.shields.io/badge/4-Refactoring_UI-00558a?style=flat-square)
 
 [Refactoring UI](https://drive.google.com/file/d/1UGTuMD6L5HT7YVvTNaIP0Gnj4U37-Ahi/view), par Adam Wathan, le créateur de Tailwind CSS : ressource fondamentale pour décrypter les codes actuels de l'interface.
 [![Refactoring UI](images/refactoring-ui.webp)](https://drive.google.com/file/d/1UGTuMD6L5HT7YVvTNaIP0Gnj4U37-Ahi/view)
 
 ## ![Glossaire](https://img.shields.io/badge/Glossaire-383d42?style=for-the-badge)
+
 **CMS** : Content Management System  
 **WYSIWYG** : What You See Is What You Get  
 **Frameworks frontend** : React (Facebook), Angular (Google), Vue.js (ex-Google)...  
@@ -287,11 +257,12 @@ L'équivalent sur Mac est une extension appelée [Raycast](https://www.raycast.c
 **Windsurf & Cursor** : ID boostés à l'IA
 
 ## ![Raccourcis](https://img.shields.io/badge/Raccourcis-383d42?style=for-the-badge)
+
 **Ctrl + L** : Sélectionner le champ URL dans un navigateur  
 **Clic, Maj, Clic** : Reprise de la sélection  
 **Ctrl + Maj + C** : Inspecter des éléments sur une page web  
 **Alt + ⇠** : Remonter dans le DOM  
-**Alt + Clic** : Déployer tout le code d'une section du DOM  
+**Alt + Clic** : Déployer tout le code d'une section du DOM
 
 ## ![Annexes](https://img.shields.io/badge/Annexes-383d42?style=for-the-badge)
 
