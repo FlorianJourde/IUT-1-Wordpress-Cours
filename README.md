@@ -254,7 +254,11 @@ L'équivalent sur Mac est une extension appelée [Raycast](https://www.raycast.c
 **POC** : Proof of Content  
 **MVP** : Minimum Viable Product  
 **Code spaghetti** : Mauvaise pratique désignant le code "monolothique" et mal fragmenté.  
-**Windsurf & Cursor** : ID boostés à l'IA
+**Fonction** : Bloc de code réutilisable qui effectue une tâche, appelable n'importe où dans le programme.
+**Méthode** : Fonction qui appartient à un objet ou une classe.
+**Primitive** : Type de donnée de base, simple et immuable (string, number, boolean, etc.).
+**Paramètre** : Variable déclarée dans la définition d'une fonction, elle attend une valeur.
+**Argument** : Valeur concrète passée à une fonction lors de son appel.
 
 ## ![Raccourcis](https://img.shields.io/badge/Raccourcis-383d42?style=for-the-badge)
 
